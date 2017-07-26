@@ -1,3 +1,0 @@
-*Texas Instruments
-*SN74LS22: 4-input O/C output NAND
-.MODEL SN74LS22 xsimcode(file="{MODEL_PATH}LS.SCB" func=ls22 {mntymx})

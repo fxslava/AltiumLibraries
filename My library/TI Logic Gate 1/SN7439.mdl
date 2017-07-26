@@ -1,3 +1,0 @@
-*Texas Instruments
-*SN7439: 2-in O/C NAND with buffered outputs
-.MODEL SN7439 xsimcode(file="{MODEL_PATH}STD.SCB" func=39 {mntymx})

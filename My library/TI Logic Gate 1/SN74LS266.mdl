@@ -1,3 +1,0 @@
-*Texas Instruments
-*SN74LS266: 2-in O/C XNOR
-.MODEL SN74LS266 xsimcode(file="{MODEL_PATH}LS.SCB" func=ls266 {mntymx})

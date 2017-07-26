@@ -1,3 +1,0 @@
-*Texas Instruments
-*SN7406: STD Hex Inverter Driver O/C output
-.MODEL SN7406 xsimcode(file="{MODEL_PATH}STD.SCB" func=06 {mntymx})

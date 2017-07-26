@@ -1,3 +1,0 @@
-*Texas Instruments
-*SN74LS27: LS 3-in NOR
-.MODEL SN74LS27 xsimcode(file="{MODEL_PATH}LS.SCB" func=ls27 {mntymx})
